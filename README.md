@@ -1,6 +1,11 @@
+<b> <h1 style="color:red;font-size:40px;"> The King County Project </b>
+  
 <b>Author: Payam Abbasi
+
 Email: AbbasiRealty@Gmail.com
+
 Brokrage: JP & Associates
+
 Date: 06-13-20
 
 Project Statement -</b> As a Real Estate Agent, I have been tasked with investigating house sales in the King County area and building a model to predict sale price. 
