@@ -20,19 +20,34 @@ Project Statement -</b> As a Real Estate Agent, I have been tasked with investig
 
 <b>Technologies/Packages -</b>
 Python
+
 Matplotlib
+
 Seaborn
+
 Pandas
+
 Numpy
+
 Statsmodels
+
 LinearRegression
+
 Scikit-learn
+
 RepeatedKFold
+
 Math
+
 Folium
-ols
+
+OLS
+
 KFold
+
 RepeatedKFold
-cross_val_score
-mean_squared_error
+
+Cross_val_score
+
+Mean_squared_error
 
