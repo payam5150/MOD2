@@ -4,7 +4,7 @@
 
 Email: AbbasiRealty@Gmail.com
 
-Brokrage: JP & Associates
+Brokerage: JP & Associates
 
 Date: 06-13-20
 
