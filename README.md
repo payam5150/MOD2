@@ -16,17 +16,8 @@ Project Statement -</b> As a Real Estate Agent, I have been tasked with investig
 
 <b>Data Source - </b> kc_house_data.csv 
 
-Technologies/Packages -
-Python
-Matplotlib version
-Seaborn
-Pandas
-Numpy version: 1.16.5
-Statsmodels version: 0.10.1
-Scikit-learn version: 0.21.2
-Bokeh version: 2.0.2
-Folium version: 0.9.1
-Geopandas version: 0.7.0
-Geopy version: 1.21.0
-Reverse_geocoder version: 1.5.1
-Pickleshare version: 0.7.5
+Technologies/Packages - Python | Matplotlib | Seaborn | Pandas | Numpy | Statsmodels | LinearRegression | Scikit-learn | RepeatedKFold | 
+Math | Folium | ols | KFold | RepeatedKFold | cross_val_score | mean_squared_error
+
+
+
