@@ -1,14 +1,14 @@
 <b><center> <h1 style="color:red;font-size:40px;"> The King County Project </b></h1></center>
   
-<b>Author: Payam Abbasi
+<b>Author:</b> Payam Abbasi
 
-Email: AbbasiRealty@Gmail.com
+<b>Email: </b>AbbasiRealty@Gmail.com
 
-Brokerage: JP & Associates
+<b>Brokerage: </b>JP & Associates
 
-Date: 06-13-20
+<b>Date: </b>06-13-20
 
-Project Statement -</b> As a Real Estate Agent, I have been tasked with investigating house sales in the King County area and building a model to predict sale price based on historical data. 
+<b>Project Statement -</b> As a Real Estate Agent, I have been tasked with investigating house sales in the King County area and building a model to predict sale price based on historical data. 
 
 <b>Data Value - </b> Better understanding the King County price range for my future buyer and sellers. 
 
@@ -19,6 +19,7 @@ Project Statement -</b> As a Real Estate Agent, I have been tasked with investig
 
 
 <b>Technologies/Packages -</b>
+
 Python
 
 Matplotlib
