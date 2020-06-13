@@ -52,3 +52,4 @@ Cross_val_score
 
 Mean_squared_error
 
+<b>***Please open mod-2-project.ipynb for the technical team to view the python codes***</B>
