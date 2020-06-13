@@ -18,7 +18,7 @@
 <b>Project Goal - </b> Analyzing over 21,598 records from the King County dataset. I will be cleaning the data, replacing any missing information and unusual fields.  Furthermore, I will give recommendations to my clients on how to make the best decision based on my findings.
 
 ---------------------------------------------------------------------------------------
-<b>Technologies/Packages -</b>
+<b>Technologies/Packages:</b>
 
 Python
 
