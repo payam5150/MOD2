@@ -4,7 +4,7 @@
 
 <b>Email: </b>AbbasiRealty@Gmail.com
 
-<b>Brokerage: </b>JP & Associates
+<b>Brokerage: </b>Abbasi Bros Realty
 
 <b>Date: </b>06-15-20
 
