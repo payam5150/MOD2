@@ -1,4 +1,4 @@
-<b> <h1 style="color:red;font-size:40px;"> The King County Project </b>
+<b> <h1 style="color:red;font-size:40px;"> The King County Project </b></h>
   
 <b>Author: Payam Abbasi
 
