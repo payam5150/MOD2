@@ -6,7 +6,7 @@
 
 <b>Brokerage: </b>JP & Associates
 
-<b>Date: </b>06-13-20
+<b>Date: </b>06-15-20
 
 <b>Project Statement -</b> As a Real Estate Agent, I have been tasked with investigating house sales in the King County area and building a model to predict sale price based on historical data. 
 
