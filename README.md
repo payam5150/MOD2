@@ -51,4 +51,6 @@ Cross_val_score
 Mean_squared_error
 
 ----------------------------------------------------------------------------------------------
+Conclusion: After cleaning our data, model performed at an 81% accuracy across all data. We deleted unnecessary columns that were not needed for this project. Waterfront view, grade, the size of the house and location made the most impact on the house price. 
+----------------------------------------------------------------------------------------------
 <b>Technical Team:</b> Please open mod-2-project.ipynb to view the python codes
