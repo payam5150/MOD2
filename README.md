@@ -1,8 +1,8 @@
 <b><center> <h1 style="color:red;font-size:40px;"> The King County Project </b></h1></center>
 ---------------------------------------------------------------------------------------  
-<b>Author:</b> Payam Abbasi
+<b>Author:</b> Payam Abbasi & Dorsa Ghahri
 
-<b>Email: </b>AbbasiRealty@Gmail.com
+<b>Email: </b>AbbasiRealty@Gmail.com & Dorsa.ghahri@gmail.com
 
 <b>Brokerage: </b>Abbasi Bros Realty
 
